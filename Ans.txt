@@ -1,0 +1,21 @@
+1. Instance simplification, problem reduction , representation change
+2. ?(n2)
+3. [log2 n] +1
+4. Linear
+5. Lower triangular
+6. Rank
+7. Binary search
+8. LR-rotation
+9. 2-node, 3-node
+10. Top-down
+11. Binary trees
+12. O(n log n)
+13. Euclid’s algorithm
+14. Adjacent matrix
+15. gcd( , )
+( , )
+m n
+m n
+lcm m n
+?
+?
